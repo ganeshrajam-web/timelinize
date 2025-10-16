@@ -1,5 +1,5 @@
 /*
-	Timelinize
+	Timelinizes
 	Copyright (c) 2013 Matthew Holt
 
 	This program is free software: you can redistribute it and/or modify
